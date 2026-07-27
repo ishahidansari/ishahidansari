@@ -8,7 +8,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Shahid Ansari</h1>
-<h3 align="center">Frontend Developer | React Enthusiast | Lifelong Learner</h3>
+<h3 align="center">Frontend Developer | Backen Developer | Full-Stack Developer | Lifelong Learner</h3>
 
 ---
 
